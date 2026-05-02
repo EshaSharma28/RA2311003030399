@@ -7,7 +7,7 @@ An optimal scheduling algorithm that selects which vehicles to service within a 
 
 To run:
 ```bash
-cd vehicle_maintence_scheduler
+cd vehicle_maintenance_scheduler
 npm install
 node index.js
 ```

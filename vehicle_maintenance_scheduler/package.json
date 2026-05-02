@@ -1,5 +1,5 @@
 {
-  "name": "vehicle_maintence_scheduler",
+  "name": "vehicle_maintenance_scheduler",
   "version": "1.0.0",
   "description": "Optimal vehicle maintenance task scheduler using knapsack algorithm",
   "main": "index.js",
